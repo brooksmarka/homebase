@@ -10,7 +10,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <Counter />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload. Like I did here!
+          Edit <code>src/App.tsx</code> To change this boiler plate.  Hello Fluentstream
+
         </p>
         <span>
           <span>Learn </span>
