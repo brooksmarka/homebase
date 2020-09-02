@@ -1,3 +1,7 @@
+The docker commands for a dev and production build can be found here - https://mherman.org/blog/dockerizing-a-react-app/
+
+The redux-toolkit starter is also on dockerhub here - https://hub.docker.com/repository/docker/mbrooks13/homebase
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
